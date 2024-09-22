@@ -40,7 +40,7 @@
 - original version(A100 gpu을 사용한 학습 결과 출력)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-LLM/blob/main/5_1_peft_lora_clm_with_additional_tokens(A100_result).ipynb)
 
-#### 6. Alpaca_finetunning_with_WandB
+#### 6. Alpaca finetunning with WandB
 - original version
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-LLM/blob/main/6_Alpaca_finetunning_with_WandB.ipynb)
 
