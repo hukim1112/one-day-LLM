@@ -45,4 +45,4 @@ original version
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-LLM/blob/main/6_Alpaca_finetunning_with_WandB.ipynb)
 
 A100 gpu을 사용한 학습 결과 출력
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-LLM/blob/main/6_Alpaca_finetunning_with_WandB.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-LLM/blob/main/6_Alpaca_finetunning_with_WandB(A100_result).ipynb)
