@@ -31,18 +31,18 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-LLM/blob/main/4_PEFT_LoRA_Tutorial.ipynb)
 
 #### 5. peft lora clm with additional tokens for agent application
-T4 gpu OOM 에러
+- T4 gpu 메모리 부족 에러
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-LLM/blob/main/5_2_peft_lora_clm_with_additional_tokens(T4_gpu_OOM_error).ipynb)
 
-Q-lora version
+- Q-lora version
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-LLM/blob/main/5_peft_lora_clm_with_additional_tokens(Q_lora_version).ipynb)
 
-original version(with A100 gpu)
+original version(A100 gpu을 사용한 학습 결과 출력)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-LLM/blob/main/5_1_peft_lora_clm_with_additional_tokens(A100_result).ipynb)
 
 #### 6. Alpaca_finetunning_with_WandB
 original version
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-LLM/blob/main/6_Alpaca_finetunning_with_WandB.ipynb)
 
-A100 gpu를 사용한 결과 출력
+A100 gpu을 사용한 학습 결과 출력
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-LLM/blob/main/6_Alpaca_finetunning_with_WandB.ipynb)
